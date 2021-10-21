@@ -12,7 +12,62 @@ header {
 nav {
     display: flex;
     gap: 20px;
+    
+}
 
+div {
+    display: flex;
+    padding: 2%;
+}
+
+.BangChan {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+    justify-content: flex-start;
+}
+
+.LeeKnow {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+}
+
+.Changbin {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+}
+
+.Hyunjin {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+}
+
+.Han {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+}
+
+.Felix {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+}
+
+.Seungmin {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+}
+
+.IN {
+    display: flex; 
+    height: 200px;
+    width: 10%;
+    justify-content: flex-end;
 }
 
 nav a {

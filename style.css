@@ -33,6 +33,7 @@ nav {
 .container {
   display: flex;
   padding-bottom: 20px;
+  text-align: center;
 }
 
 .image-container {
@@ -61,4 +62,5 @@ nav a {
 }
 
 main {
+    
 }

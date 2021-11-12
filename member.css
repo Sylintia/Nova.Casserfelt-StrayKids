@@ -25,3 +25,11 @@ nav {
     padding-top: 25px;
     padding-left: 15px;
   }
+
+  .image-container {
+    display: flex;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 3%;
+    height: 400px;
+  }

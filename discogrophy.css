@@ -5,7 +5,7 @@
   
   header {
     display: flex;
-    background-color: rgb(104, 7, 7, 1);
+    background-color: black;
     padding: 10px;
   }
   
@@ -24,4 +24,10 @@ nav {
     color: white;
     padding-top: 25px;
     padding-left: 15px;
+  }
+
+  .container {
+    padding: 3%;
+    padding-top: 2%;
+    
   }

@@ -5,7 +5,7 @@
   
   header {
     display: flex;
-    background-color: rgb(104, 7, 7, 1);
+    background-color: black;
     padding: 10px;
   }
   
@@ -28,8 +28,7 @@ nav {
 
   .image-container {
     display: flex;
-    padding-left: 4%;
-    padding-right: 4%;
-    padding-top: 3%;
+    padding: 3%;
+    padding-top: 2%;
     height: 400px;
   }

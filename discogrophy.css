@@ -31,3 +31,17 @@ nav {
     padding-top: 2%;
     
   }
+
+  .Tracklist {
+    padding: 3%;
+    padding-top: 2%;
+    height: 40%;
+    font-size: 20px;
+  }
+
+  .Right {
+    font-size: 20px;
+    padding: 1%;
+    padding-top: 0%;
+    
+  }

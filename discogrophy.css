@@ -29,29 +29,27 @@ nav {
   .container {
     padding: 3%;
     padding-top: 2%;
-    
   }
 
   .Tracklist {
     display: flex;
     padding: 3%;
     padding-top: 2%;
-    height: 40%;
     font-size: 20px;
+    justify-content: space-between;
+    padding-right: 0;
   }
 
   .Left {
-    width: 60%;
+    width: 30%;
   }
 
   .Right {
-    font-size: 20px;
-    padding: 1%;
-    padding-top: 6%;
-    padding-right: 500px;
-    width: 60%;
+    width: 30%;
+    padding-top: 5%;
   }
 
   .Image-Container {
-
+    width: 30%;
+    padding-bottom: 0;
   }

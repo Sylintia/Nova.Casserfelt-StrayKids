@@ -7,6 +7,7 @@
     display: flex;
     background-color: black;
     padding: 10px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
   }
   
 nav {
@@ -47,6 +48,18 @@ nav {
   .Right {
     width: 30%;
     padding-top: 5%;
+  }
+
+  h1 {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+  }
+
+  p {
+    font-family: Cambria,Georgia,serif; 
+  }
+
+  h3 {
+    font-family: Cambria,Georgia,serif; 
   }
 
   .Image-Container {

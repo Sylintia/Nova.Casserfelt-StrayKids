@@ -7,6 +7,7 @@ header {
   display: flex;
   background-color: black;
   padding: 10px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 nav {
@@ -59,6 +60,14 @@ nav a {
   color: white;
   padding-top: 25px;
   padding-left: 15px;
+}
+
+h1 {
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+p {
+  font-family: Cambria,Georgia,serif; 
 }
 
 main {
